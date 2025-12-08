@@ -82,7 +82,7 @@ A **Rectangular Microstrip Patch Antenna** designed for standard wireless applic
 patch_antenna/
 
 ---
-
+<!--
 ## 📁 Repository Structure
 
 antenna-design-cst/ │── README.md │ ├── srr_antenna/ │   ├── cst_files/ │   ├── screenshots/ │   └── results/ │ ├── fractal_antenna/ │   ├── cst_files/ │   ├── screenshots/ │   └── results/ │ ├── patch_antenna/ │   ├── cst_files/ │   ├── screenshots/ │   └── results/ │ └── docs/
@@ -152,7 +152,7 @@ This project is intended for educational and research purposes.
 Suggestions, improvements, and collaborations are welcome.
 
 ---  
-
+-->
 Acknowledgements   
 
 Kumud Sir and Arashdeep Sir.
